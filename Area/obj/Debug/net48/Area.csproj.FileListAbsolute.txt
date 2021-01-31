@@ -1,0 +1,8 @@
+/Users/desta/RiderProjects/Area/Area/bin/Debug/net48/Area.dll
+/Users/desta/RiderProjects/Area/Area/bin/Debug/net48/Area.pdb
+/Users/desta/RiderProjects/Area/Area/obj/Debug/net48/Area.csprojAssemblyReference.cache
+/Users/desta/RiderProjects/Area/Area/obj/Debug/net48/Area.csproj.CoreCompileInputs.cache
+/Users/desta/RiderProjects/Area/Area/obj/Debug/net48/Area.AssemblyInfoInputs.cache
+/Users/desta/RiderProjects/Area/Area/obj/Debug/net48/Area.AssemblyInfo.cs
+/Users/desta/RiderProjects/Area/Area/obj/Debug/net48/Area.dll
+/Users/desta/RiderProjects/Area/Area/obj/Debug/net48/Area.pdb
